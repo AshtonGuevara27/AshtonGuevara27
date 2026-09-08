@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👋 ¡Hola! Soy Ashton Guevara
-
 ### Estudiante de Análisis de Sistemas Empresariales
 📍 Instituto Valle Grande — Cañete, Lima, Perú
 
@@ -41,6 +40,10 @@ Intereses:   Desarrollo Web, Bases de Datos, Cloud Computing
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AshtonGuevara27/count.svg" alt="Visitor Count" />
+</p>
+
 ---
 
 ### 📌 Proyectos destacados
@@ -54,7 +57,5 @@ Intereses:   Desarrollo Web, Bases de Datos, Cloud Computing
 ---
 
 <div align="center">
-
 💬 **"Aprender haciendo es la mejor forma de crecer."**
-
 </div>
