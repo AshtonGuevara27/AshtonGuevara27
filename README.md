@@ -68,16 +68,6 @@ Intereses:   Desarrollo Web, Bases de Datos, Cloud Computing
 
 <br>
 
-## 📫 Contáctame
-
-<p align="center">
-  <a href="https://github.com/AshtonGuevara27">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
 <div align="center">
 
 ### 💬 *"Aprender haciendo es la mejor forma de crecer."*
